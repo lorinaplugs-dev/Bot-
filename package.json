@@ -15,10 +15,10 @@
     "node-fetch": "2.7.0",
     "telegraf": "4.16.3",
     "rpc-websockets": "7.6.1",
-    "uuid": "8.3.2"
+    "uuid": "14.0.0"
   },
   "overrides": {
-    "uuid": "8.3.2",
+    "uuid": "14.0.0",
     "rpc-websockets": "7.6.1"
   },
   "engines": {
